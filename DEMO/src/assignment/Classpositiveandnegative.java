@@ -20,6 +20,22 @@ public class Classpositiveandnegative {
 	            System.out.println("Number is zero");
 	        }
 	    }
+
+	ts.add("Lalitha");
+					ts.add("Prapoorna");
+					ts.add("Priya");
+					ts.add("Mahendra");
+					ts.add("Vijaya");
+					ts.add("Teja");
+	
+					for (String value : ts)
+	
+						System.out.print( value + "  ");
+	
+					System.out.println();
+				}
+		
+		}
 	
 
 
